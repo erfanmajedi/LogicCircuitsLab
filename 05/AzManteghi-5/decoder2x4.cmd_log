@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/elec/AzElec-5/decoder2x4.xst" -ofn "C:/Users/estinaf/Desktop/elec/AzElec-5/decoder2x4.syr" 

@@ -1,0 +1,3 @@
+verilog isim_temp "dflop.v"
+verilog isim_temp "seq_circuit.v"
+verilog isim_temp "D:/appise/14.7/ISE_DS/ISE//verilog/src/glbl.v"

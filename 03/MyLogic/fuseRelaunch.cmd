@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Anformatic Golestan/Documents/Logic Circuits/03/MyLogic/tb_MyVer_isim_beh.exe" -prj "C:/Users/Anformatic Golestan/Documents/Logic Circuits/03/MyLogic/tb_MyVer_beh.prj" "work.tb_MyVer" "work.glbl" 

@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="lab07" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/add_sub_delay D:|manteqi|07|addsub_delay.v</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|9831099|ISE Project|adder_subtractor_fourbit.v</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|9831111|ISE Project|adder_subtractor_fourbit.v</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|adder_subtractor_fourbit.v/as1 - add_sub</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|adder_subtractor_fourbit.v/as2 - add_sub</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|adder_subtractor_fourbit.v/as3 - add_sub</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|adder_subtractor_fourbit.v/as4 - add_sub</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit C:|Users|estinaf|Desktop|07|adder_subtractor_fourbit.v</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit D:|manteqi|07|adder_subtractor_fourbit.v</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit_delay C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|9831111|ISE Project|adder_subtractor_4bit_delay.v</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit_delay C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|adder_subtractor_4bit_delay.v</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit_delay C:|Users|estinaf|Desktop|07|adder_subtractor_4bit_delay.v/asd1 - add_sub_delay</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit_delay C:|Users|estinaf|Desktop|07|adder_subtractor_4bit_delay.v/asd2 - add_sub_delay</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit_delay C:|Users|estinaf|Desktop|07|adder_subtractor_4bit_delay.v/asd3 - add_sub_delay</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit_delay C:|Users|estinaf|Desktop|07|adder_subtractor_4bit_delay.v/asd4 - add_sub_delay</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit_delay D:|manteqi|07|adder_subtractor_4bit_delay.v/g2 - add_sub_delay</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit_delay D:|manteqi|07|adder_subtractor_4bit_delay.v/g3 - add_sub_delay</ClosedNode>
+         <ClosedNode>/adder_subtractor_fourbit_delay D:|manteqi|07|adder_subtractor_4bit_delay.v/g4 - add_sub_delay</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>adder_subtractor_fourbit_delay (C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/9831099/ISE Project/adder_subtractor_4bit_delay.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000019e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000019e0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>adder_subtractor_fourbit_delay (C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/9831099/ISE Project/adder_subtractor_4bit_delay.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000164000000010000000100000000000000000000000064ffffffff000000810000000000000001000001640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000003a3000000040101000100000000000000000000000064ffffffff000000810000000000000004000000480000000100000000000000270000000100000000000000760000000100000000000002be0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>adder_subtractor_fourbit.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000016d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000016d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001330000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/adder_subtractor_fourbit_delay D:|manteqi|07|adder_subtractor_4bit_delay.v</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|9831099|ISE Project|tb_adder_subtractor_4bit.v/test_adder_subtractor_4bit - adder_subtractor_fourbit</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|9831099|ISE Project|tb_adder_subtractor_4bit.v/test_adder_subtractor_4bit_delay - adder_subtractor_fourbit_delay/asd1 - add_sub_delay</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|9831099|ISE Project|tb_adder_subtractor_4bit.v/test_adder_subtractor_4bit_delay - adder_subtractor_fourbit_delay/asd2 - add_sub_delay</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|9831099|ISE Project|tb_adder_subtractor_4bit.v/test_adder_subtractor_4bit_delay - adder_subtractor_fourbit_delay/asd3 - add_sub_delay</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|9831099|ISE Project|tb_adder_subtractor_4bit.v/test_adder_subtractor_4bit_delay - adder_subtractor_fourbit_delay/asd4 - add_sub_delay</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|tb_adder_subtractor_4bit.v/test_adder_subtractor_4bit - adder_subtractor_fourbit</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit C:|Users|Anformatic Golestan|Documents|Logic Circuits|07|tb_adder_subtractor_4bit.v/test_adder_subtractor_4bit_delay - adder_subtractor_fourbit_delay</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit C:|Users|estinaf|Desktop|07|tb_adder_subtractor_4bit.v/test_adder_subtractor_4bit - adder_subtractor_fourbit</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit C:|Users|estinaf|Desktop|07|tb_adder_subtractor_4bit.v/test_adder_subtractor_4bit_delay - adder_subtractor_fourbit_delay</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit D:|manteqi|07|tb_adder_subtractor_4bit.v/test_adder_subtractor_4bit_delay - adder_subtractor_fourbit_delay</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit D:|manteqi|07|tb_adder_subtractor_4bit.v/uut - adder_subtractor_fourbit/g2 - add_sub</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit D:|manteqi|07|tb_adder_subtractor_4bit.v/uut - adder_subtractor_fourbit/g3 - add_sub</ClosedNode>
+         <ClosedNode>/tb_adder_subtractor_4bit D:|manteqi|07|tb_adder_subtractor_4bit.v/uut - adder_subtractor_fourbit/g4 - add_sub</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>tb_adder_subtractor_4bit (C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/9831099/ISE Project/tb_adder_subtractor_4bit.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000258000000020000000000000000000000000200000064ffffffff000000810000000300000002000002580000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>tb_adder_subtractor_4bit (C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/9831099/ISE Project/tb_adder_subtractor_4bit.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Compile HDL Simulation Libraries</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000016d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000016d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Compile HDL Simulation Libraries</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000164000000010000000100000000000000000000000064ffffffff000000810000000000000001000001640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

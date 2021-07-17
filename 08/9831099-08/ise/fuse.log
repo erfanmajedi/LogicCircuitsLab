@@ -1,0 +1,29 @@
+Running: D:\appise\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/estinaf/Desktop/manteghi/manteghi08/tb_alu_isim_beh.exe -prj C:/Users/estinaf/Desktop/manteghi/manteghi08/tb_alu_beh.prj work.tb_alu work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/estinaf/Desktop/manteghi/manteghi08/halfAdder.v" into library work
+Analyzing Verilog file "C:/Users/estinaf/Desktop/manteghi/manteghi08/multiplyModule.v" into library work
+Analyzing Verilog file "C:/Users/estinaf/Desktop/manteghi/manteghi08/multiplexer4x4.v" into library work
+Analyzing Verilog file "C:/Users/estinaf/Desktop/manteghi/manteghi08/logicUnit.v" into library work
+Analyzing Verilog file "C:/Users/estinaf/Desktop/manteghi/manteghi08/arithmaticUnit.v" into library work
+Analyzing Verilog file "C:/Users/estinaf/Desktop/manteghi/manteghi08/Alu.v" into library work
+Analyzing Verilog file "C:/Users/estinaf/Desktop/manteghi/manteghi08/tb_alu.v" into library work
+Analyzing Verilog file "D:/appise/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module halfAdder
+Compiling module multiplyModule
+Compiling module arithmaticUnit
+Compiling module logicUnit
+Compiling module multiplexer4x4
+Compiling module Alu
+Compiling module tb_alu
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 8 Verilog Units
+Built simulation executable C:/Users/estinaf/Desktop/manteghi/manteghi08/tb_alu_isim_beh.exe
+Fuse Memory Usage: 27344 KB
+Fuse CPU Usage: 406 ms

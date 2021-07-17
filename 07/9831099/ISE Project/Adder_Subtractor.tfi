@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Adder_Subtractor instance_name (
+    .A(A), 
+    .B(B), 
+    .cin(cin), 
+    .S(S), 
+    .cout(cout)
+    );
+
+

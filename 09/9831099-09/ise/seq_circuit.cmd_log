@@ -1,0 +1,12 @@
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/manteghi/azmanteghi09/seq_circuit.xst" -ofn "C:/Users/estinaf/Desktop/manteghi/azmanteghi09/seq_circuit.syr" 
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/manteghi/azmanteghi09/seq_circuit.xst" -ofn "C:/Users/estinaf/Desktop/manteghi/azmanteghi09/seq_circuit.syr" 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/09/9831099-09/ise/seq_circuit.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/09/9831099-09/ise/seq_circuit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "seq_circuit.ngc" seq_circuit.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o seq_circuit_map.ncd seq_circuit.ngd seq_circuit.pcf 
+par -w -intstyle ise -ol high -mt off seq_circuit_map.ncd seq_circuit.ncd seq_circuit.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml seq_circuit.twx seq_circuit.ncd -o seq_circuit.twr seq_circuit.pcf 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/09/9831099-09/ise/seq_circuit.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/09/9831099-09/ise/seq_circuit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "seq_circuit.ngc" seq_circuit.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o seq_circuit_map.ncd seq_circuit.ngd seq_circuit.pcf 
+par -w -intstyle ise -ol high -mt off seq_circuit_map.ncd seq_circuit.ncd seq_circuit.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml seq_circuit.twx seq_circuit.ncd -o seq_circuit.twr seq_circuit.pcf 

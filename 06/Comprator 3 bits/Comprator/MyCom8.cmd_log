@@ -1,0 +1,10 @@
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/06/Comprator 3 bits/Comprator/MyCom8.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/06/Comprator 3 bits/Comprator/MyCom8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I "MyCom8.ngc" MyCom8.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MyCom8_map.ncd MyCom8.ngd MyCom8.pcf 
+par -w -intstyle ise -ol high -mt off MyCom8_map.ncd MyCom8.ncd MyCom8.pcf 
+trce -intstyle ise -v 3 -s 2I -n 3 -fastpaths -xml MyCom8.twx MyCom8.ncd -o MyCom8.twr MyCom8.pcf 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/06/Comprator 3 bits/Comprator/MyCom8.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/06/Comprator 3 bits/Comprator/MyCom8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I "MyCom8.ngc" MyCom8.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MyCom8_map.ncd MyCom8.ngd MyCom8.pcf 
+par -w -intstyle ise -ol high -mt off MyCom8_map.ncd MyCom8.ncd MyCom8.pcf 
+trce -intstyle ise -v 3 -s 2I -n 3 -fastpaths -xml MyCom8.twx MyCom8.ncd -o MyCom8.twr MyCom8.pcf 

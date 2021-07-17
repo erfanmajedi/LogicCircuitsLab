@@ -1,0 +1,6 @@
+verilog isim_temp "D_FF.v"
+verilog isim_temp "register.v"
+verilog isim_temp "fsm.v"
+verilog isim_temp "system.v"
+verilog isim_temp "T_System.v"
+verilog isim_temp "D:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

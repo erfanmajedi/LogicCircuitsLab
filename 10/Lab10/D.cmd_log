@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/parham/Desktop/AUT/CEIT/Logical Circuits/Lab/Lab10/Lab10/D.xst" -ofn "C:/Users/parham/Desktop/AUT/CEIT/Logical Circuits/Lab/Lab10/Lab10/D.syr" 
+xst -intstyle ise -ifn "C:/Users/parham/Desktop/AUT/CEIT/Logical Circuits/Lab/Lab10/Lab10/D.xst" -ofn "C:/Users/parham/Desktop/AUT/CEIT/Logical Circuits/Lab/Lab10/Lab10/D.syr" 

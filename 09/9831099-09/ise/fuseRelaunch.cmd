@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Anformatic Golestan/Documents/Logic Circuits/09/9831099-09/ise/tb_seq_circuit_isim_beh.exe" -prj "C:/Users/Anformatic Golestan/Documents/Logic Circuits/09/9831099-09/ise/tb_seq_circuit_beh.prj" "work.tb_seq_circuit" "work.glbl" 

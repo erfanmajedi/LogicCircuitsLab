@@ -1,0 +1,6 @@
+verilog work "halfAdder.v"
+verilog work "multiplyModule.v"
+verilog work "multiplexer4x4.v"
+verilog work "logicUnit.v"
+verilog work "arithmaticUnit.v"
+verilog work "Alu.v"

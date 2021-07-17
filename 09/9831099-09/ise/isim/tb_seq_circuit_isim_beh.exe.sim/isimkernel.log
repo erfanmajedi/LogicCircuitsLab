@@ -1,0 +1,28 @@
+Command line:
+   tb_seq_circuit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  10985
+
+Tue Dec 15 14:27:32 2020
+
+
+ Elaboration Time: 0.21875 sec
+
+ Current Memory Usage: 5677.81 Meg
+
+ Total Signals          : 35
+ Total Nets             : 26
+ Total Signal Drivers   : 18
+ Total Blocks           : 5
+ Total Primitive Blocks : 3
+ Total Processes        : 23
+ Total Traceable Variables  : 26
+ Total Scalar Nets and Variables : 114
+
+ Total Simulation Time: 0.21875 sec
+
+ Current Memory Usage: 4734.06 Meg
+
+Tue Dec 15 14:36:18 2020
+

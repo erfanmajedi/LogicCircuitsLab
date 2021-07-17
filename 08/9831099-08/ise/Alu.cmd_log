@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/manteghi/manteghi08/Alu.xst" -ofn "C:/Users/estinaf/Desktop/manteghi/manteghi08/Alu.syr" 
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/manteghi/manteghi08/Alu.xst" -ofn "C:/Users/estinaf/Desktop/manteghi/manteghi08/Alu.syr" 
+vhdtdtfi -lib work C:/Users/estinaf/Desktop/manteghi/manteghi08/Alu.v -lang verilog -prj manteghi08 -o Alu.spl -module Alu -template D:/appise/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Alu.spl C:/Users/estinaf/Desktop/manteghi/manteghi08/Alu.sym 
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/manteghi/manteghi08/Alu.xst" -ofn "C:/Users/estinaf/Desktop/manteghi/manteghi08/Alu.syr" 

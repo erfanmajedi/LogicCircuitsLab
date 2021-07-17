@@ -1,0 +1,6 @@
+verilog work "D_FF.v"
+verilog work "register.v"
+verilog work "fsm.v"
+verilog work "system.v"
+verilog work "T_System.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

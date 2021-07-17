@@ -1,0 +1,3 @@
+verilog work "full_adder_delay.v"
+verilog work "addsub_delay.v"
+verilog work "adder_subtractor_4bit_delay.v"

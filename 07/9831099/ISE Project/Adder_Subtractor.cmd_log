@@ -1,0 +1,9 @@
+vhdtdtfi -lang verilog -prj Adder -o "C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/Adder_Subtractor.tfi" -lib work "C:/Users/Anformatic Golestan/Documents/Logic Circuits/07//Adder_Subtractor.v" -module Adder_Subtractor -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/Adder_Subtractor.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/Adder_Subtractor.syr" 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/Adder_Subtractor.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/Adder_Subtractor.syr" 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/Adder_Subtractor.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/07/Adder_Subtractor.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I "Adder_Subtractor.ngc" Adder_Subtractor.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Adder_Subtractor_map.ncd Adder_Subtractor.ngd Adder_Subtractor.pcf 
+par -w -intstyle ise -ol high -mt off Adder_Subtractor_map.ncd Adder_Subtractor.ncd Adder_Subtractor.pcf 
+trce -intstyle ise -v 3 -s 2I -n 3 -fastpaths -xml Adder_Subtractor.twx Adder_Subtractor.ncd -o Adder_Subtractor.twr Adder_Subtractor.pcf 
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/07/Adder_Subtractor.xst" -ofn "C:/Users/estinaf/Desktop/07/Adder_Subtractor.syr" 

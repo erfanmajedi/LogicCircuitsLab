@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/elec/AzElec-5/decoder4x16.xst" -ofn "C:/Users/estinaf/Desktop/elec/AzElec-5/decoder4x16.syr" 
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/elec/AzElec-5/decoder4x16.xst" -ofn "C:/Users/estinaf/Desktop/elec/AzElec-5/decoder4x16.syr" 
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/elec/AzElec-5/decoder4x16.xst" -ofn "C:/Users/estinaf/Desktop/elec/AzElec-5/decoder4x16.syr" 
+xst -intstyle ise -ifn "C:/Users/estinaf/Desktop/elec/AzElec-5/decoder4x16.xst" -ofn "C:/Users/estinaf/Desktop/elec/AzElec-5/decoder4x16.syr" 

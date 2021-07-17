@@ -1,0 +1,9 @@
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/03/MyLogic/MyVer.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/03/MyLogic/MyVer.syr" 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/03/MyLogic/MyVer.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/03/MyLogic/MyVer.syr" 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/03/MyLogic/MyVer.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/03/MyLogic/MyVer.syr" 
+xst -intstyle ise -ifn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/03/MyLogic/MyVer.xst" -ofn "C:/Users/Anformatic Golestan/Documents/Logic Circuits/03/MyLogic/MyVer.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7z010-clg400-1 "MyVer.ngc" MyVer.ngd  
+map -intstyle ise -p xc7z010-clg400-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MyVer_map.ncd MyVer.ngd MyVer.pcf 
+par -w -intstyle ise -ol high -mt off MyVer_map.ncd MyVer.ncd MyVer.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml MyVer.twx MyVer.ncd -o MyVer.twr MyVer.pcf 
+bitgen -intstyle ise -f MyVer.ut MyVer.ncd 
